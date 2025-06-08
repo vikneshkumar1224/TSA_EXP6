@@ -1,5 +1,5 @@
-## Devloped by: ILEVARASEN S
-## Register Number: 212224040120
+## Devloped by: VIKNESH KUMAR S
+## Register Number: 212224040360
 ## Date: 20-04-2025
 
 ## Ex.No: 6-HOLT WINTERS METHOD
